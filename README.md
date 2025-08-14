@@ -16,14 +16,14 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <!-- Left Column -->
-    <td width="50%" style="vertical-align: top; padding: 10px;">
+    <td width="70%" style="vertical-align: top; padding: 10px;">
       <p>👋 Hi, I'm <strong>Sajja Saathvik Choudhary</strong> — <em>Software Engineer | AI & Data Specialist</em> passionate about building intelligent, scalable, and high-performance solutions.</p>
       <p>💻 I specialize in clean architecture, data-driven systems, AI-powered applications, and delivering seamless user experiences.</p>
       <p>🏏 Outside of work, I enjoy cricket, badminton, and chess. 🏍️ I’m also a passionate biker, always ready for my next adventure.</p>
       <p>🚀 My mission? To create innovative, reliable, and impactful technology that truly makes a difference.</p>
     </td>
     <!-- Right Column -->
-    <td width="50%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="30%" align="center" style="vertical-align: middle; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saathvik-Choudhary&layout=compact&theme=tokyonight&hide_border=true" 
            alt="Top Languages" 
            width="100%">
