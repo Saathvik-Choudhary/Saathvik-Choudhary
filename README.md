@@ -85,22 +85,6 @@
   </table>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Saathvik-Choudhary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saathvik-Choudhary&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-profile-trophy.vercel.app/?username=Saathvik-Choudhary&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Profile Trophy" width="100%" />
-</div>
-
 ## 🧠 Fun Facts
 
 <div align="center">
