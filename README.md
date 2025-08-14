@@ -13,20 +13,24 @@
 
 ## 🧩 About Me
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; max-width: 1000px; margin: auto; text-align: left;">
-  <div style="flex: 1; min-width: 300px;">
-    <p>👋 Hi, I'm <strong>Sajja Saathvik Choudhary</strong> — <em>Software Engineer | AI & Data Specialist</em> passionate about building intelligent, scalable, and high-performance solutions.</p>
-    <p>💻 I specialize in clean architecture, data-driven systems, AI-powered applications, and delivering seamless user experiences.</p>
-    <p>🏏 Outside of work, I enjoy cricket, badminton, and chess. 🏍️ I’m also a passionate biker, always ready for my next adventure.</p>
-    <p>🚀 My mission? To create innovative, reliable, and impactful technology that truly makes a difference.</p>
-  </div>
-
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saathvik-Choudhary&layout=compact&theme=tokyonight&hide_border=true" 
-         alt="Top Languages" 
-         style="max-width: 100%; height: auto;">
-  </div>
+<div style="display: flex; justify-content: center;">
+  <table style="width: 100%; max-width: 1000px; border-collapse: collapse;">
+    <tr>
+      <td style="width: 60%; vertical-align: top; padding: 10px;">
+        <p>👋 Hi, I'm <strong>Sajja Saathvik Choudhary</strong> — <em>Software Engineer | AI & Data Specialist</em> passionate about building intelligent, scalable, and high-performance solutions.</p>
+        <p>💻 I specialize in clean architecture, data-driven systems, AI-powered applications, and delivering seamless user experiences.</p>
+        <p>🏏 Outside of work, I enjoy cricket, badminton, and chess. 🏍️ I’m also a passionate biker, always ready for my next adventure.</p>
+        <p>🚀 My mission? To create innovative, reliable, and impactful technology that truly makes a difference.</p>
+      </td>
+      <td style="width: 40%; vertical-align: middle; text-align: center; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saathvik-Choudhary&layout=compact&theme=tokyonight&hide_border=true" 
+             alt="Top Languages" 
+             style="max-width: 100%; height: auto;">
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ## 🛠️ Tech Stack & Skills
 
