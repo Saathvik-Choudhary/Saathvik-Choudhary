@@ -13,21 +13,19 @@
 
 ## 🧩 About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <p>👋 Hi, I'm <strong>Sajja Saathvik Choudhary</strong> — <em>Software Engineer | AI & Data Specialist</em> passionate about building intelligent, scalable, and high-performance solutions.</p>
-        <p>💻 I specialize in clean architecture, data-driven systems, AI-powered applications, and delivering seamless user experiences.</p>
-        <p>🏏 Outside of work, I enjoy cricket, badminton, and chess. 🏍️ I’m also a passionate biker, always ready for my next adventure.</p>
-        <p>🚀 My mission? To create innovative, reliable, and impactful technology that truly makes a difference.</p>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; max-width: 1000px; margin: auto; text-align: left;">
+  <div style="flex: 1; min-width: 300px;">
+    <p>👋 Hi, I'm <strong>Sajja Saathvik Choudhary</strong> — <em>Software Engineer | AI & Data Specialist</em> passionate about building intelligent, scalable, and high-performance solutions.</p>
+    <p>💻 I specialize in clean architecture, data-driven systems, AI-powered applications, and delivering seamless user experiences.</p>
+    <p>🏏 Outside of work, I enjoy cricket, badminton, and chess. 🏍️ I’m also a passionate biker, always ready for my next adventure.</p>
+    <p>🚀 My mission? To create innovative, reliable, and impactful technology that truly makes a difference.</p>
+  </div>
 
-      </td>
-      <td width="40%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saathvik-Choudhary&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%">
-      </td>
-    </tr>
-  </table>
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saathvik-Choudhary&layout=compact&theme=tokyonight&hide_border=true" 
+         alt="Top Languages" 
+         style="max-width: 100%; height: auto;">
+  </div>
 </div>
 
 ## 🛠️ Tech Stack & Skills
