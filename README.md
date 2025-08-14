@@ -66,7 +66,7 @@
       <td width="50%">
         <h2 align="left">FindX</h2>
         <p align="left">
-          <a href="https://github.com/nakuldevmv/FindX" target="_blank">
+          <a href="https://github.com/Saathvik-Choudhary/FindX" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
           </a>
         </p>
@@ -75,7 +75,7 @@
       <td width="50%">
         <h2 align="left">Spamurai</h2>
         <p align="left">
-          <a href="https://github.com/nakuldevmv/Spamurai" target="_blank">
+          <a href="https://github.com/Saathvik-Choudhary/Spamurai" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
           </a>
         </p>
@@ -91,14 +91,14 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nakuldevmv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Saathvik-Choudhary&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakuldevmv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saathvik-Choudhary&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
-  <img src="https://github-profile-trophy.vercel.app/?username=nakuldevmv&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Profile Trophy" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saathvik-Choudhary&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Profile Trophy" width="100%" />
 </div>
 
 ## 🧠 Fun Facts
@@ -132,7 +132,7 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://nakuldevmv.github.io/" target="_blank">
+  <a href="https://Saathvik-Choudhary.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/saathvik-choudhary/" target="_blank">
